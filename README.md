@@ -1,2 +1,2 @@
-# carwebsite.github.com
+# carwebsite.github.io
 car website example
